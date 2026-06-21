@@ -1,6 +1,7 @@
-# ./
+# Passwort Generator
 
-This template should help get you started developing with Vue 3 in Vite.
+      Das ist ein Password Generator in vue.js 3
+      https://emaryllis03.github.io/Passwort-Generator/
 
 ## Recommended IDE Setup
 
